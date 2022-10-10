@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryo-pakaya
+- 👋 Hi, I’m @ryo-kurniawan
 - 👀 I’m a Frontend Developer
 - 🌱 I’m currently learning Javascript (React Js, Vue Js, Express Js)
 - 📫 How to reach me https://www.instagram.com/ryo.pkya_/
